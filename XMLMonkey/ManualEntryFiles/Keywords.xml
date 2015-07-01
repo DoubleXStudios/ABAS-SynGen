@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywords>
+    <sad>
+        <word value="4"> I'm sad </word>
+        <word value="1"> bitter </word>
+        <word value="1"> dismal </word>
+        <word value="3"> heartbroken </word>
+        <word value="1"> melancholy </word>
+        <word value="1"> mournful </word>
+        <word value="1"> pessimistic </word>
+        <word value="1"> melancholy </word>
+        <word value="1"> somber </word>
+        <word value="1"> sorrowful </word>
+        <word value="1"> sorry </word>
+        <word value="1"> wistful </word>
+        <word value="1"> bereaved </word>
+        <word value="1"> blue </word>
+        <word value="2"> cheerless </word>
+        <word value="2"> dejected </word>
+        <word value="3"> despairing </word>
+        <word value="3"> despair </word>
+        <word value="1"> despondent </word>
+        <word value="1"> disconsolate </word>
+        <word value="2"> distressed </word>
+        <word value="1"> doleful </word>
+        <word value="1"> down </word>
+        <word value="1"> down in the dumps </word>
+        <word value="1"> down in mouth </word>
+        <word value="1"> downcast </word>
+        <word value="1"> forlorn </word>
+        <word value="2"> gloomy </word>
+        <word value="1"> glum </word>
+        <word value="3"> grief-stricken </word>
+        <word value="2"> grief </word>
+        <word value="2"> heartsick </word>
+        <word value="1"> heavyhearted </word>
+        <word value="2"> hurting </word>
+        <word value="1"> in doldrums </word>
+        <word value="2"> in grief </word>
+        <word value="2"> languishing </word>
+        <word value="1"> low </word>
+        <word value="1"> low-spirited </word>
+        <word value="1"> lugubrious </word>
+        <word value="2"> morbid </word>
+        <word value="1"> morose </word>
+        <word value="1"> out of sorts </word>
+        <word value="1"> pensive </word>
+        <word value="3"> sick at heart </word>
+        <word value="1"> troubled </word>
+        <word value="3"> weeping </word>
+        <word value="1"> woebegone </word>
+    </sad>
+	
+    <depressed>
+        <word value="4"> I'm depressed </word>
+        <word value="1"> despondent </word>
+        <word value="1"> morose </word>
+        <word value="1"> pessimistic </word>
+        <word value="2"> sad </word>
+        <word value="2"> unhappy </word>
+        <word value="2"> bleeding </word>
+        <word value="1"> blue </word>
+        <word value="1"> dejected </word>
+        <word value="2"> destroyed </word>
+        <word value="1"> melancholy </word>
+        <word value="1"> dispirited </word>
+        <word value="1"> down </word>
+        <word value="1"> dragged </word>
+        <word value="1"> hurting </word>
+        <word value="1"> low </word>
+        <word value="1"> ripped </word>
+        <word value="2"> weeping </word>
+        <word value="1"> bad </word>
+        <word value="1"> bummed out </word>
+        <word value="2"> cast-down </word>
+        <word value="1"> crestfallen </word>
+        <word value="1"> crummy </word>
+        <word value="1"> disconsolate </word>
+        <word value="1"> down and out </word>
+        <word value="1"> down in the dumps </word>
+        <word value="1"> down in the mouth </word>
+        <word value="1"> downcast </word>
+        <word value="1"> fed up </word>
+        <word value="1"> glum </word>
+        <word value="2"> grim </word>
+        <word value="2"> in pain </word>
+        <word value="2"> in the dumps </word>
+        <word value="1"> in the pits </word>
+        <word value="1"> in the toilet </word>
+        <word value="2"> let down </word>
+        <word value="1"> low spirited </word>
+        <word value="2"> melancholy </word>
+        <word value="1"> moody </word>
+        <word value="1"> sob story </word>
+        <word value="2"> spiritless </word>
+        <word value="1"> taken down </word>
+        <word value="2"> torn up </word>
+    </depressed>
+	
+    <frustrated>
+        <word value="1"> defeated </word>
+        <word value="1"> discontented </word>
+        <word value="4"> I'm frustrated </word>
+        <word value="1"> discouraged </word>
+        <word value="1"> disheartened </word>
+        <word value="1"> embittered </word>
+        <word value="2"> fuck </word>
+        <word value="2"> shit </word>
+        <word value="1"> foiled </word>
+        <word value="1"> irked </word>
+        <word value="1"> stonewalled </word>
+        <word value="1"> stymied </word>
+        <word value="1"> fouled out </word>
+        <word value="1"> hung up on </word>
+        <word value="3"> pissed </word>
+        <word value="2"> mad </word>
+        <word value="3"> pissed off </word>
+        <word value="1"> resentful </word>
+        <word value="1"> ungratified </word>
+        <word value="1"> unsated </word>
+        <word value="1"> unslaked </word>
+    </frustrated>
+    
+    <upset>
+        <word value="1"> agitated </word>
+        <word value="1"> amazed </word>
+        <word value="1"> blue </word>
+        <word value="1"> capsized </word>
+        <word value="1"> confused </word>
+        <word value="2"> dismayed </word>
+        <word value="2"> disordered </word>
+        <word value="1"> disquieted </word>
+        <word value="1"> distressed </word>
+        <word value="1"> dragged </word>
+        <word value="4"> I'm upset </word>
+        <word value="1"> grieved </word>
+        <word value="1"> hurt </word>
+        <word value="1"> ill </word>
+        <word value="1"> low </word>
+        <word value="1"> muddled </word>
+        <word value="1"> overturned </word>
+        <word value="1"> rattled </word>
+        <word value="1"> ruffled </word>
+        <word value="2"> shocked </word>
+        <word value="1"> sick </word>
+        <word value="1"> spilled </word>
+        <word value="1"> thrown </word>
+        <word value="1"> toppled </word>
+        <word value="1"> troubled </word>
+        <word value="1"> tumbled </word>
+        <word value="2"> unsettled </word>
+        <word value="2"> worried </word>
+        <word value="1"> antsy </word>
+        <word value="1"> broken up </word>
+        <word value="1"> bummed out </word>
+        <word value="1"> chaotic </word>
+        <word value="1"> come apart </word>
+        <word value="2"> frantic </word>
+        <word value="1"> jittery </word>
+        <word value="1"> jumpy </word>
+        <word value="1"> overwrought </word>
+        <word value="1"> psyched out </word>
+        <word value="1"> shook up </word>
+        <word value="1"> tipped over </word>
+        <word value="1"> upside down </word>
+    </upset>
+    
+    <happy>
+        <word value="4"> I'm happy </word>
+        <word value="3"> loved </word>
+        <word value="1"> glad </word>
+        <word value="1"> awesome </word>
+        <word value="1"> fun </word>
+        <word value="1"> laughed </word>
+        <word value="1"> great </word>
+    </happy>
+    
+    <relaxed>
+        <word value="4"> I'm relaxed </word>
+        <word value="3"> relaxed </word>
+        <word value="1"> content </word>
+        <word value="1"> soothing </word>
+        <word value="1"> easy </word>
+        <word value="1"> calm </word>
+        <word value="1"> rest </word>
+    </relaxed>
+	
+</keywords>
